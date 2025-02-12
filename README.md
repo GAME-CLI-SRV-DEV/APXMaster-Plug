@@ -1,5 +1,4 @@
-# Unofficial-snapshot-Spigot-BuildData-Scripts
+# 에이피엑스마스터플러그
 
-unofficial Spigot BuildData for snapshot versions
-
-binary: https://github.com/tsao-chi/Unofficial-snapshot-Spigot-BuildData
+스크립트: Tsao-chi
+바이너리: Outfit8TSB
