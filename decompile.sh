@@ -2,7 +2,7 @@
 cd "$(dirname "$0")"
 basedir="$(pwd)"
 workdir="$basedir/work"
-minecraftversion='20w12a'
+minecraftversion='25w07a'
 decompiledir="$workdir/Minecraft/$minecraftversion"
 spigotdecompiledir="$decompiledir/spigot"
 forgedecompiledir="$decompiledir/forge"
